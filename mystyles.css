@@ -1,0 +1,27 @@
+
+.button
+{
+    -fx-font-size: 10pt;
+    -fx-background-color: #9AAD99;
+    -border-color: #FFFFFF;
+}
+
+.button:hover
+{
+    -fx-background-color: linear-gradient(#D6E6D5,#7d827e);
+    -border-color: #FFFFFF;
+}
+
+.label
+{
+    -fx-text-fill: #000000;
+    -fx-font-family: cursive;
+    -fx-font-size: 15pt;
+
+}
+
+.root
+{
+     -fx-background-color: #1DA314;
+
+}
